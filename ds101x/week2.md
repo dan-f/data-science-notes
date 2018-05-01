@@ -130,3 +130,23 @@
   results are blind to the assignment of individuals to treatment vs control
   groups
 - Repetition used to account for random variation in individuals
+
+## 2.5 Lecture: Data Collection - Sampling
+
+- **Defn: Population**: entire collection of individuals of interest for a study
+- We sample because it's often not practical to study entire population
+- Want samples to be representative of the population
+- Non-representative sampling leads to biased results
+- Sample randomly to get best results
+- **Defn: Sample Variation**: difference between variable of interest when
+  repeatedly sampling.  The greater the variation in the population, the greater
+  the sample variation will be.
+- **Defn: Sampling Bias**: the probability of an individual being selected is
+  associated with that individual's variable value
+  - Ex: polling politics on social media; population on social media has
+    different political views than the overall population
+  - Can anticipate and account for selection bias by modelling the selection
+    process
+- Use a **probability model** for sampling variability using statistical theory,
+    we can use statistical inference to better understand the population truth
+    - e.g. margin of error
